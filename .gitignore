@@ -1,0 +1,4 @@
+#Ignore the already created .HTML files, via the most recent iteration 
+#of the program...
+*.html
+
